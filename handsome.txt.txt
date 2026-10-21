@@ -1,2 +1,6 @@
 this is created in main branch at 429pm
+<<<<<<< HEAD
 pretty is a good fren of handsome
+=======
+georgous suddenlt become handsome fren forget about pretty already
+>>>>>>> gorgeous
